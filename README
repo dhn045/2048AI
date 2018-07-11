@@ -1,0 +1,26 @@
+Author: David Nguyen
+Date: 7/2/2018
+
+2048 AI
+
+This is my first project applying a neural network to solve some kind of
+problem. The neural network used is a CNN, convolutional neural network that
+uses ideas in RL, reinforcement learning, to learn over time.
+
+I template code from deeplearningandneuralnetworks.com to learn and
+start and then heavily modified it with ideas from "Deep Reinforcement
+Learning for 2048", a paper written by Antoine Dediu and Jonothan Amar.
+
+The project was never made to be used by anyone but me so I don't plan
+on updating it, nor am I an expert an ML. Because of this, any ideas
+and concepts used in the code shouldn't be taken seriously.
+
+My goal was to meet the expectations that the MIT 2048 paper achieved with
+a random policy network with a CNN and RL, but it actually exceeded it
+with some different parameters.
+
+Introductory Online NN and DL Course that I used
+http://neuralnetworksanddeeplearning.com/chap1.html
+
+Deep Reinforcement Learning for 2048
+http://www.mit.edu/~amarj/files/2048.pdf
