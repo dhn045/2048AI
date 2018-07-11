@@ -4,7 +4,7 @@ Date: 7/2/2018
 2048 AI
 
 This is my first project applying a neural network to solve some kind of
-problem. The neural network used is a CNN, convolutional neural network that
+problem. The neural network used is a normal MLPNN that
 uses ideas in RL, reinforcement learning, to learn over time.
 
 I template code from deeplearningandneuralnetworks.com to learn and
